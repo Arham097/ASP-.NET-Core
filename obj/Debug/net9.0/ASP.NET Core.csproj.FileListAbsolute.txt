@@ -88,3 +88,4 @@ C:\Users\Syed Arham Hasan\Desktop\ASP.NET Core\obj\Debug\net9.0\refint\ASP.NET C
 C:\Users\Syed Arham Hasan\Desktop\ASP.NET Core\obj\Debug\net9.0\ASP.NET Core.pdb
 C:\Users\Syed Arham Hasan\Desktop\ASP.NET Core\obj\Debug\net9.0\ASP.NET Core.genruntimeconfig.cache
 C:\Users\Syed Arham Hasan\Desktop\ASP.NET Core\obj\Debug\net9.0\ref\ASP.NET Core.dll
+C:\Users\Syed Arham Hasan\Desktop\ASP.NET Core\obj\Debug\net9.0\ASP.NET Core.sourcelink.json
