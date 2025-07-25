@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2QS3Lhq1prw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Syed Arham Hasan\\Desktop\\ASPDotNETCore\\Model_Validation\\Model_Validation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Arham Hasan\\.nuget\\packages\\asp.versioning.abstractions\\8.1.0\\asp.versioning.abstractions.8.1.0.nupkg.sha512",
+    "C:\\Users\\Syed Arham Hasan\\.nuget\\packages\\asp.versioning.http\\8.1.0\\asp.versioning.http.8.1.0.nupkg.sha512",
+    "C:\\Users\\Syed Arham Hasan\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Syed Arham Hasan\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Syed Arham Hasan\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\Syed Arham Hasan\\.nuget\\packages\\minivalidation\\0.9.2\\minivalidation.0.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
