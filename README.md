@@ -1,6 +1,6 @@
-# ASP.NET Core Projects
+# ASP.NET Core 
 
-This workspace contains multiple ASP.NET Core projects, each demonstrating different aspects of web application development. Below is an overview of the projects and their functionalities.
+This workspace contains multiple ASP.NET Core Concepts, each demonstrating different aspects of web application development. Below is an overview of the concepts and functionalities.
 
 ## Projects
 
